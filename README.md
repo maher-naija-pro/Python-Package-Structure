@@ -1,12 +1,12 @@
 # python_package_structure
-
+<br>
 # VENV
 
 
 python3 -m venv nom_environnement
 source venv/bin/activate
 ti quit deactivate
-
+<br>
 
 
 
@@ -14,7 +14,7 @@ ti quit deactivate
 
 Under Readme.rst update desc
 
-
+<br>
 
 # Install
 
@@ -24,7 +24,7 @@ sudo pip uninstall py_package
 #to install package
 sudo pip install .
 
-
+<br>
 
 
 # Test
@@ -33,7 +33,7 @@ sudo pip install .
 
 python setup.py test
 
-
+<br>
 # Bin generated
 
 this bin will be generated and accesible on linux as cmd
