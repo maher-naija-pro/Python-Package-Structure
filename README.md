@@ -1,4 +1,4 @@
-# python_package_structure
+# Python_Package_Structure
 <br>
 
 # VENV
