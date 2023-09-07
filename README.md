@@ -36,9 +36,9 @@ Generic python package structure
 ---
 To get started, follow these steps:
 1. :
-   // python3 -m venv nom_environnement
-   //source venv/bin/activate
-   //to quit deactivate
+   python3 -m venv nom_environnement
+   source venv/bin/activate
+   to quit deactivate
    
    ### Prerequisites
    Python3
